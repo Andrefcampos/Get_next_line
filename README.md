@@ -102,4 +102,4 @@ Contributions are welcome! If you want to contribute to this project, please fol
 5. Create a new Pull Request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE]() file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Andrefcampos/Get_next_line/blob/main/LICENSE.txt) file for more details.
