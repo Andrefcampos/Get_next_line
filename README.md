@@ -61,7 +61,7 @@ To use get_next_line in your projects, include the library header and link the g
 
 When compiling your project, add get_next_line.a to the compiler command line:
 ```sh
-gcc -Wall -Wextra -Werror -o my_program my_program.c get_next_line.a
+gcc -D BUFFER_SIZE=number -Wall -Wextra -Werror -o my_program my_program.c get_next_line.a
 ```
 
 ## File Structure
